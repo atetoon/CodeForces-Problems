@@ -14,6 +14,5 @@ int main() {
         else
             cout << (n - 1) / 2 << '\n';
     }
-
     return 0;
 }
