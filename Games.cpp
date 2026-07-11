@@ -6,7 +6,7 @@ int main() {
     cin >> n;
     int a[n], b[n];
 
-    int ans = 9;
+    int ans = 0;
 
     for (int i = 0; i < n; i++)
     {
