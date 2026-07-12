@@ -22,5 +22,6 @@ int main() {
         for(auto x: v) {
             cout << x << " ";
         }
+        cout << endl;
     }
 }
