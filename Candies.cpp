@@ -11,7 +11,7 @@ int main() {
        for(int k = 2; k<=30; k++) {
             ll dr = pow(2, k)-1;
             if(n%dr) continue;
-            x = n>dr;
+            x = n/dr;
             break;
        }
        cout<<x<<'\n';
